@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/xcode/Downloads/TestLibMuseAndroid/app/build/intermediates/res/merged/debug/raw/a7.wav",
+        "source": "/Users/xcode/Downloads/TestLibMuseAndroid/app/src/main/res/raw/a7.wav"
+    },
+    {
+        "merged": "/Users/xcode/Downloads/TestLibMuseAndroid/app/build/intermediates/res/merged/debug/raw/a5.wav",
+        "source": "/Users/xcode/Downloads/TestLibMuseAndroid/app/src/main/res/raw/a5.wav"
+    },
+    {
+        "merged": "/Users/xcode/Downloads/TestLibMuseAndroid/app/build/intermediates/res/merged/debug/raw/a8.wav",
+        "source": "/Users/xcode/Downloads/TestLibMuseAndroid/app/src/main/res/raw/a8.wav"
+    },
+    {
+        "merged": "/Users/xcode/Downloads/TestLibMuseAndroid/app/build/intermediates/res/merged/debug/raw/a6.wav",
+        "source": "/Users/xcode/Downloads/TestLibMuseAndroid/app/src/main/res/raw/a6.wav"
+    },
+    {
+        "merged": "/Users/xcode/Downloads/TestLibMuseAndroid/app/build/intermediates/res/merged/debug/raw/never.mp3",
+        "source": "/Users/xcode/Downloads/TestLibMuseAndroid/app/src/main/res/raw/never.mp3"
+    }
+]
